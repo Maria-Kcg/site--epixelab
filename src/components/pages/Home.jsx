@@ -6,7 +6,7 @@ import Group7 from "@/assets/images/Group7.png";
 import Activity from "@/assets/images/Activity.png";
 import Video from "@/assets/images/Video.png";
 import Chart from "@/assets/images/Chart.png";
-import VideoPlayer from "@/assets/images/Videoplayer.png";
+import VideoPlayer from "@/assets/images/VideoPlayer.png";
 import Userpic from "@/assets/images/Userpic.png";
 import Userpic1 from "@/assets/images/Userpic1.png";
 import Userpic2 from "@/assets/images/Userpic2.png";
