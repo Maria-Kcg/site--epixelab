@@ -1,6 +1,6 @@
 import { NavigationMenu, NavigationMenuItem, NavigationMenuLink, NavigationMenuList, } from "@/components/ui/navigation-menu"
 import { Link } from "react-router-dom";
-import Logo from "@/assets/images/logo.png";
+import Logo from "@/assets/images/Logo.png";
 import { Button } from "@/components/ui/button"
 import { useState } from "react";
 import { Menu } from "lucide-react";

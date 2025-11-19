@@ -1,20 +1,20 @@
 import { Button } from "@/components/ui/button";
-import LearnMoreIcon from "@/assets/images/learnmoreicon.png";
-import Image from "@/assets/images/image.png";
-import Group4 from "@/assets/images/group4.png";
-import Group7 from "@/assets/images/group7.png";
-import Activity from "@/assets/images/activity.png";
-import Video from "@/assets/images/video.png";
-import Chart from "@/assets/images/chart.png";
-import VideoPlayer from "@/assets/images/videoplayer.png";
-import Userpic from "@/assets/images/userpic.png";
-import Userpic1 from "@/assets/images/userpic1.png";
-import Userpic2 from "@/assets/images/userpic2.png";
-import Userpic3 from "@/assets/images/userpic3.png";
+import LearnMoreIcon from "@/assets/images/Learnmoreicon.png";
+import Image from "@/assets/images/Image.png";
+import Group4 from "@/assets/images/Group4.png";
+import Group7 from "@/assets/images/Group7.png";
+import Activity from "@/assets/images/Activity.png";
+import Video from "@/assets/images/Video.png";
+import Chart from "@/assets/images/Chart.png";
+import VideoPlayer from "@/assets/images/Videoplayer.png";
+import Userpic from "@/assets/images/Userpic.png";
+import Userpic1 from "@/assets/images/Userpic1.png";
+import Userpic2 from "@/assets/images/Userpic2.png";
+import Userpic3 from "@/assets/images/Userpic3.png";
 import fatwitter from "@/assets/images/fatwitter.png";
 import fadribbble from "@/assets/images/fadribbble.png";
 import fafacebooksquare from "@/assets/images/fafacebooksquare.png";
-import Group from "@/assets/images/group.png";
+import Group from "@/assets/images/Group.png";
 import { Card, CardContent, CardFooter, CardHeader, CardTitle, } from "@/components/ui/card";
 
 function Home() {

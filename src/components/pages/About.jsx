@@ -1,9 +1,9 @@
 import aboutimg from "@/assets/images/aboutimg.png";
 import { Button } from "@/components/ui/button";
-import Userpic from "@/assets/images/userpic.png";
-import Userpic1 from "@/assets/images/userpic1.png";
-import Userpic2 from "@/assets/images/userpic2.png";
-import Userpic3 from "@/assets/images/userpic3.png";
+import Userpic from "@/assets/images/Userpic.png";
+import Userpic1 from "@/assets/images/Userpic1.png";
+import Userpic2 from "@/assets/images/Userpic2.png";
+import Userpic3 from "@/assets/images/Userpic3.png";
 import founder from "@/assets/images/founder.png";
 import { MapPin } from 'lucide-react';
 import mapimgpng from "@/assets/images/mapimgpng.png";
