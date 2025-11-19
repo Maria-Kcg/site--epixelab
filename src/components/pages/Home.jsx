@@ -23,7 +23,7 @@ function Home() {
             <section>
                 <div className="container hero max-w-[1100px] mx-auto flex flex-col lg:flex-row md:justify-between">
                     <div className="md:flex-1 mt-5 lg:mt-20">
-                        <h1 className="text-4xl lg:text-5xl mb-5 leading-10 md:leading-15 font-[800] text-[#0B1B35] text-center lg.text-start">We boost <br /> growth for your <br /> statup business</h1>
+                        <h1 className="text-4xl lg:text-5xl mb-5 leading-10 md:leading-15 font-[800] text-[#0B1B35] text-center lg:text-start">We boost <br /> growth for your <br /> statup business</h1>
                         <p className="font-medium mb-15 mx-5 lg:mx-0">Our goal is top at the heart of creativity services industry as a digital creator. In has a after comment</p>
                         <div className="flex justify-center lg:justify-start">
                             <Button variant="myOrange">Get Started</Button>
