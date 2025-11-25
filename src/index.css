@@ -1,6 +1,36 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+@font-face {
+  font-family: 'Ageo';
+  src: url('./assets/fonts/AgeoTrial-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ageo';
+  src: url('./assets/fonts/AgeoTrial-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ageo';
+  src: url('./assets/fonts/AgeoTrial-Heavy.ttf') format('truetype');
+  font-weight: 850;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ageo';
+  src: url('./assets/fonts/AgeoTrial-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
